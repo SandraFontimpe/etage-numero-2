@@ -5881,6 +5881,19 @@
          "tilecount":1,
          "tileheight":32,
          "tilewidth":32
+        }, 
+        {
+         "columns":1,
+         "firstgid":34940,
+         "image":"tilesets\/data manager.png",
+         "imageheight":32,
+         "imagewidth":32,
+         "margin":0,
+         "name":"data manager",
+         "spacing":0,
+         "tilecount":1,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
