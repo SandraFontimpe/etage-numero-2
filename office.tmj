@@ -1464,7 +1464,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"Cette femme semble attendre quelqu'un. Elle est probablement la pharmacienne clinicienne qui a laiss\u00e9 un mot au service de radiologie."
+                         "value":"Cette femme semble attendre quelqu'un. Elle est probablement la pharmacienne clinicienne qui a laiss\u00e9 un mot au service de radiologie. Cliquez sur le bouton afin de d\u00e9buter une discussion."
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -1561,7 +1561,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"..."
+                         "value":"Un meuble rempli de gros dossiers. Cliquez pour y jeter un \u0153il."
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -1648,7 +1648,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"..."
+                         "value":"Un meuble rempli de classeurs bien rang\u00e9s. Cliquez pour y jeter un \u0153il."
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -1735,7 +1735,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"..."
+                         "value":"Un poste informatique est rest\u00e9 d\u00e9verrouill\u00e9. Cliquez pour voir ce qui s\u2019affiche \u00e0 l\u2019\u00e9cran.\n"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -1822,7 +1822,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"..."
+                         "value":"On voit un homme qui para\u00eet \u00e9puis\u00e9, presque incapable de rester \u00e9veill\u00e9. Il semble avoir besoin d\u2019aide. Cliquez sur le bouton afin de d\u00e9buter une discussion."
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -2885,7 +2885,7 @@
                 {
                  "name":"doorVariable",
                  "type":"string",
-                 "value":"my_door_3"
+                 "value":"my_door_4"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -2967,7 +2967,7 @@
                 {
                  "name":"doorVariable",
                  "type":"string",
-                 "value":"my_door_3"
+                 "value":"my_door_4"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -6925,7 +6925,7 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":333,
+ "nextlayerid":334,
  "nextobjectid":58,
  "orientation":"orthogonal",
  "properties":[
