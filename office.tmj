@@ -2425,7 +2425,7 @@
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
                  "height":60,
                  "id":369,
-                 "name":"DIialogue de fin",
+                 "name":"Dialogue de fin",
                  "opacity":1,
                  "properties":[
                         {
@@ -2441,7 +2441,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"Stand PROMESS"
+                         "value":"DIialogue de fin"
                         }],
                  "type":"tilelayer",
                  "visible":true,
