@@ -2431,7 +2431,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/view.genially.com\/696a02b206d1dcc86ebd33de"
+                         "value":"https:\/\/view.genially.com\/697c8ae17480bdf3ae50d9a2"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -2441,7 +2441,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"DIialogue de fin"
+                         "value":"La responsable informatique vous invite \u00e0 vous approcher afin d\u2019\u00e9couter qu\u2019elle a \u00e0 dire. Cliquez sur le bouton afin de suivre ses instructions."
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -2528,7 +2528,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"Stand PROMESS"
+                         "value":"Une femme se tient derri\u00e8re un stand portant l\u2019affiche \u00ab PROMESS \u00bb. Cliquez sur le bouton afin de vous approcher."
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -2615,7 +2615,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"Tableau des r\u00e9sultats"
+                         "value":"Un tableau affiche les r\u00e9sultats et le classement des gagnants de l\u2019escape game. Cliquez sur le bouton pour le consulter."
                         }],
                  "type":"tilelayer",
                  "visible":true,
